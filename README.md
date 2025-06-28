@@ -49,7 +49,7 @@ npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
 
 ## 🙏 Special Thanks
 
-Thanks to Hitesh Choudhary Sir [Hitesh Choudhary](https://github.com/hiteshchoudhary) for the amazing Tailwind tutorials 🙏
+Thanks to [Hitesh Choudhary Sir](https://github.com/hiteshchoudhary) for the amazing Tailwind tutorials 🙏
 His teaching inspired me to practice and explore more.
 
 ---
