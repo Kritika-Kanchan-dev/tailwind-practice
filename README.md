@@ -5,6 +5,7 @@ This repository contains my personal practice projects using **Tailwind CSS**. I
 ---
 
 ## 📁 Project Structure
+```
 tailwindCSS/
 ├── node_modules/
 ├── src/
@@ -14,7 +15,7 @@ tailwindCSS/
 │ ├── output.css # Compiled Tailwind CSS
 ├── package.json
 ├── package-lock.json
-
+```
 ---
 
 ## 📄 Files Description
